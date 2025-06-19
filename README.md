@@ -1,12 +1,4 @@
-Tentu, saya akan sesuaikan kembali file `readme.md` dan `cara_training_foto.txt` dengan informasi repositori yang baru. Referensi ke `fajarlabs` akan tetap dicantumkan sebagai sumber inspirasi.
 
-Berikut adalah versi terbaru dari kedua file tersebut.
-
----
-
-### File `readme.md` (Versi Terbaru)
-
-```markdown
 # Sistem Absensi Wajah dengan GUI dan Anti-Spoofing
 
 Aplikasi absensi wajah berbasis desktop yang dibangun menggunakan Python, OpenCV, dan PyQt5. Aplikasi ini mampu melakukan pengenalan wajah secara *real-time* melalui webcam untuk mencatat kehadiran.
@@ -130,11 +122,12 @@ Proses penggunaan terdiri dari tiga tahap: pengambilan data foto, training model
 
 ## 📚 Referensi & Kredit
 
-Proyek ini merupakan pengembangan dan penyesuaian dari repositori awal oleh **fajarlabs**.
+Proyek ini merupakan pengembangan dan penyesuaian dari repositori awal oleh **fajarlabs-(https://youtu.be/UM1Z_8yi1iY?feature=shared)**.
 
 -   [Raspberry Pi: Install OpenCV pada Python 3.7](https://yunusmuhammad007.medium.com/2-raspberry-pi-install-opencv-pada-python-3-7-menggunakan-pip3-a2504dffd984)
 -   [Programmer Sought Article](https://programmersought.com/article/57453207651/)
 -   [Tom's Hardware: Raspberry Pi Facial Recognition](https://www.tomshardware.com/how-to/raspberry-pi-facial-recognition)
+-   https://github.com/fajarlabs/absensi_wajah/blob/master/demo.gif
 ```
 
 ---
